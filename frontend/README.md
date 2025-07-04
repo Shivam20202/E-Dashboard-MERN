@@ -7,13 +7,6 @@ This is a full-stack **E-commerce web application** built using the **MERN stack
 
 ## 💻 Tech Stack
 
-### 🔧 Backend
-- **Node.js**
-- **Express.js**
-- **MongoDB** with **Mongoose**
-- **JWT** for Authentication
-- **dotenv**, **bcryptjs**, **cors**, etc.
-
 ### 🎨 Frontend
 - **React.js**
 - **Axios** for HTTP requests

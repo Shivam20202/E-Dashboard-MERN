@@ -4,19 +4,6 @@ This is a full-stack **E-commerce web application** built using the **MERN stack
 
 ---
 
-## 📚 Table of Contents
-
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [API Overview](#-api-overview)
-- [Future Improvements](#-future-improvements)
-- [Contact](#-contact)
-
----
 
 ## 💻 Tech Stack
 

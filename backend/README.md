@@ -46,5 +46,5 @@ This is a full-stack **E-commerce web application** built using the **MERN stack
 
 ---
 
-## 📁 Project Structure
+
 
